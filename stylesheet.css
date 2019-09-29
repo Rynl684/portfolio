@@ -2,7 +2,7 @@
 
 body {
   font-family: 'Raleway', sans-serif;
-  background-color: url Force Logo.jpg;
+  background-image: url ("Force Logo.jpg")
 }
 
 h1 {
