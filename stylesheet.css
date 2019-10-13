@@ -45,4 +45,12 @@ h1{
 .navbar a:hover {
   background-color: 1EDA38;
   color: #DA1E1E;
+  
+}
+
+.navbar a.active {
+  background-color: 38DA1E;
+  color: 1EDABE;
+  
+}
 
